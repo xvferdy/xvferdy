@@ -1,68 +1,24 @@
-<div align="center">
-  <h2>
-    Halo
-    <img
-      src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"
-      width="27px"
-    />... I'm <a href="">Ferdy</a> ! Nice to
-    meet you
-  </h2>
-</div>
+### A little about me...
+<img src="https://cdn.betterttv.net/emote/584d92a1f52be01a7ee606a9/3x" align="left"/>
 
-<div align="center">
-  <h4>🕵️‍♂️ Male | 👨‍💻 CS Student | 🃏 Maniac</h4>
-</div>
+- Started 🎉 learning programing in 2019, with [**PHP**](https://www.php.net/) as my first language
+- Need some help with `technical interview`❓
+- Currently learning [**Javascript**](https://www.javascript.com/)
+- Not really good at **CSS**💢
 
-### About me :octocat::smoking:
+ <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact)-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact" width="365px"/>
 
-- 🏡 I come from Indonesia 🇮🇩 
-- :baby: I started 🎉 learning programing in 2019, with [**PHP**](https://www.php.net/) as my first language
-- 🌱 I'm currently learning `React`
-- 🤔 Need some help with `technical interview`❓
-- 📬 **Link**: Instagram: [@xvferdy](https://www.instagram.com/xvferdy/)
-- 🎮 **My hobbies**: Playing games
-- 🙈 **Fun fact**: Not really good at `CSS`💢
-- 💵 [Elon](https://twitter.com/elonmusk) is my role model
-- 💭 Hope you got wonderfull day!
+<!-- https://www.spotify.com/us/account/apps/ -->
+<kbd>música..</kbd> <br>
+[![🎧 spotify](https://spotify-github-profile.vercel.app/api/view?uid=xvferdy&cover_image=true&theme=novatorem&bar_color=0080ff)](https://spotify-github-profile.vercel.app/api/view?uid=xvferdy&redirect=true)
 
----
+<kbd> Where to find me 
+<kbd>
+  <img src="https://cdn.betterttv.net/emote/5d7d8931d2458468c1f44dc2/1x" align="left">
+🔹 Email me at [xvferdy@gmail.com](mailto:xvferdy@gmail.com) <br>
+🔹 Instagram [@xvferdy](https://www.instagram.com/xvferdy/) <br>
+</kbd> 
+</kbd> 
 
-<div align="center">
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact)
-
-</div>
-
-<div align="center">
-	
-<img src="https://user-images.githubusercontent.com/47988956/92414220-81da6100-f17d-11ea-96ec-011be0f79bb8.png"/>
- 
-  <samp>
-    <br></b>Let's catch some bugs!</b>
-    <br>
-    <img src="https://user-images.githubusercontent.com/47988956/92413347-c95eee00-f179-11ea-9cd9-403c38b4c2fd.gif" width=250px/>
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/xvferdy">Twitter</a>
-  </samp>
-  
- <details>
-  <summary><b>:telescope: 2020 Goal</b></summary>
-  𝔱𝔬 𝔟𝔢 𝔱𝔥𝔢 𝔤𝔯𝔢𝔞𝔱𝔢𝔰𝔱
- </details>
- 
-</div>
-
-
-<!--
-**xvferdy/xvferdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=xvferdy.xvferdy&left_color=DimGray&right_color=CornflowerBlue&left_text=Hello%20Visitors) -->
