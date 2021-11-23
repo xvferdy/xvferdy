@@ -6,6 +6,8 @@
 - Currently learning [**Javascript**](https://www.javascript.com/)
 - Not really good at **CSS**💢
 
+<br>
+
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact)-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact" width="365px"/>
 
