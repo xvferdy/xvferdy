@@ -14,6 +14,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 29 April 2022 - To: 06 May 2022
+
 JavaScript   44 hrs 20 mins  ██████████████████▓░░░░░░   75.17 %
 SCSS         8 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
 Markdown     2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
