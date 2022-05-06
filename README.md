@@ -12,6 +12,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact" width="365px"/>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   44 hrs 20 mins  ██████████████████▓░░░░░░   75.17 %
+SCSS         8 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Markdown     2 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+HTML         1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- https://www.spotify.com/us/account/apps/ -->
