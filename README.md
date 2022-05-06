@@ -11,6 +11,9 @@
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact)-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact" width="365px"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- https://www.spotify.com/us/account/apps/ -->
 <kbd>música..</kbd> <br>
 [![🎧 spotify](https://spotify-github-profile.vercel.app/api/view?uid=xvferdy&cover_image=true&theme=novatorem&bar_color=0080ff)](https://spotify-github-profile.vercel.app/api/view?uid=xvferdy&redirect=true)
