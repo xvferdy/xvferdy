@@ -5,15 +5,16 @@
 - Need some help with `technical interview`❓
 - Currently learning [**Javascript**](https://www.javascript.com/)
 - Not really good at **CSS**💢
+<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xvferdy.xvferdy&left_color=DimGray&right_color=CornflowerBlue&left_text=Profile%20visit)
 
-##### :octocat: Github informations...
+:octocat: **Github informations...**
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact)-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvferdy&layout=compact" width="365px"/>
 
-##### 📊 Wakatime weekly stats...
+📊 **Wakatime weekly stats...**
 
 <!--START_SECTION:waka-->
 
