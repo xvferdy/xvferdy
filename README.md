@@ -19,14 +19,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 June 2022 - To: 16 June 2022
+From: 10 June 2022 - To: 17 June 2022
 
-TypeScript                 13 hrs 24 mins  ██████████████▓░░░░░░░░░░   58.26 %
-Vue.js                     6 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   29.31 %
-JSON                       1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Nginx configuration file   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-JavaScript                 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-HTML                       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript   9 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.57 %
+Vue.js       5 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   35.91 %
+JavaScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
