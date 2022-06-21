@@ -19,11 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
-
-TypeScript   3 hrs 4 mins    ███████████████████████▓░   94.53 %
-JSON         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Vue.js       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
