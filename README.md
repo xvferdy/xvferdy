@@ -19,9 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 August 2022 - To: 12 August 2022
+From: 06 August 2022 - To: 13 August 2022
 
-HTML   19 mins         █████████████████████████   100.00 %
+SCSS       5 hrs           █████████████████████░░░░   84.57 %
+HTML       44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+CSS        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
