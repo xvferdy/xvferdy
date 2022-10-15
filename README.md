@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
+From: 07 October 2022 - To: 14 October 2022
 
 Markdown     32 mins         █████████████████░░░░░░░░   68.62 %
 JavaScript   14 mins         ████████░░░░░░░░░░░░░░░░░   31.38 %
