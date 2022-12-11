@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
 SCSS         1 hr 18 mins    ███████████████████████░░   91.56 %
 JavaScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
