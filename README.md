@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 04 February 2023 - To: 11 February 2023
 
-JavaScript   4 hrs 46 mins   █████████████████████░░░░   84.10 %
-SCSS         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+JavaScript   4 hrs 43 mins   █████████████████████░░░░   83.93 %
+SCSS         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
