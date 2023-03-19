@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 JavaScript   3 hrs 51 mins   █████████████████████████   99.55 %
 SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
