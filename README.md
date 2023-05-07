@@ -19,9 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
-No activity tracked
+SCSS         1 hr 55 mins    █████████████████▒░░░░░░░   69.53 %
+JavaScript   44 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
