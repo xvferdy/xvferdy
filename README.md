@@ -34,6 +34,6 @@ JavaScript   45 mins         ███████▒░░░░░░░░░
 
 > 📠 **Where to find me...**</br>
 >  _〰 Email me at [xvferdy@gmail.com](mailto:xvferdy@gmail.com) <br>
-〰 Instagram [@xvferdy](https://www.instagram.com/xvferdy/)_.
+〰 Article [Medium](https://medium.com/@berlianto.dev)_
 
 <img src="https://cdn.betterttv.net/emote/5d7d8931d2458468c1f44dc2/1x" align="right">
