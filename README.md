@@ -19,9 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 May 2023 - To: 26 May 2023
+From: 20 May 2023 - To: 27 May 2023
 
-JavaScript   53 mins         █████████████████████████   100.00 %
+SCSS         1 hr 47 mins    █████████████████▓░░░░░░░   70.27 %
+JavaScript   45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.73 %
 ```
 
 <!--END_SECTION:waka-->
