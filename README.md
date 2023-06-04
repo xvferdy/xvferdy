@@ -19,10 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2023 - To: 02 June 2023
+From: 27 May 2023 - To: 03 June 2023
 
-SCSS         2 hrs 32 mins   ████████████████████░░░░░   80.31 %
-JavaScript   37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+SCSS         45 mins         ███████████████▓░░░░░░░░░   62.30 %
+JavaScript   27 mins         █████████▒░░░░░░░░░░░░░░░   37.70 %
 ```
 
 <!--END_SECTION:waka-->
