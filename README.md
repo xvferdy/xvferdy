@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
 HTML         30 mins         █████████████████████████   99.74 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
