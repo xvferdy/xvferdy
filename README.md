@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
 SCSS         1 hr 14 mins    ████████████▓░░░░░░░░░░░░   51.28 %
 JavaScript   44 mins         ███████▓░░░░░░░░░░░░░░░░░   30.56 %
