@@ -19,12 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2023 - To: 19 July 2023
+From: 13 July 2023 - To: 20 July 2023
 
-SCSS         1 hr 11 mins    ██████████████████▒░░░░░░   72.99 %
-HTML         22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
-Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
