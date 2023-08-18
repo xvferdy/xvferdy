@@ -19,11 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-SCSS         6 hrs 48 mins   █████████████░░░░░░░░░░░░   52.66 %
-JavaScript   5 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.65 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+SCSS         5 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.89 %
+JavaScript   4 hrs 17 mins   ███████████░░░░░░░░░░░░░░   44.60 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
