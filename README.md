@@ -19,10 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-JavaScript   21 mins         █████████████████▒░░░░░░░   69.90 %
-SCSS         9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+JavaScript   1 hr 27 mins    ████████████████████▓░░░░   83.04 %
+SCSS         17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
