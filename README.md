@@ -19,11 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-Markdown     1 hr 20 mins    ████████████████████████▒   97.43 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
