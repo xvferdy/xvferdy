@@ -19,11 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
-CSS    51 mins         ███████████████████████▒░   92.74 %
-SCSS   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-HTML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
